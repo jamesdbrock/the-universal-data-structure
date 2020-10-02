@@ -9,7 +9,7 @@ funny, rather it’s an insult thinly veiled by “just kidding.”
 
 (Takes a minute to start up)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jamesdbrock/the-universal-data-structure/master?urlpath=lab/tree/StringyMap.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jamesdbrock/the-universal-data-structure/main?urlpath=lab/tree/StringyMap.ipynb)
 
 ## Run with Docker
 
