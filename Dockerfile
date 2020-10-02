@@ -11,11 +11,6 @@
 
 FROM crosscompass/ihaskell-notebook:290122cc67bb
 
-USER root
-
-COPY ./StringyMap.ipynb /home/$NB_USER/work/
-RUN fix-permissions /home/$NB_USER/work
-
-USER $NB_UID
+COPY ./StringyMap.ipynb /home/$NB_USER/
 
 ENV JUPYTER_ENABLE_LAB=yes
